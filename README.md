@@ -1,3 +1,3 @@
-# Proyecto para curso de Git
+# Proyecto para curso.
 
 Repositorio de ejercicios para el curso.
