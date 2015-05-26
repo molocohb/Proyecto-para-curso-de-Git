@@ -1,3 +1,3 @@
 # Proyecto para curso de Git
 
-Repositorio de ejercicios para el curso de GitHub.
+Repositorio de ejercicios para el curso.
